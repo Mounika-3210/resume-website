@@ -1,0 +1,25 @@
+ body{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            background-color: white;
+        }
+        div{
+            background-color:whitesmoke;
+            padding: 20px;
+            border-radius: 10%;
+            margin: 20px;
+
+        }
+        table{
+            width: 50%;
+        }
+        TH{
+            background-color:white;
+            color: black;
+        }
+        img{
+            border-radius: 50%;
+            box-shadow: 0 0 10px black;
+        }
+        iframe{
+            margin: 5%;
+        }
