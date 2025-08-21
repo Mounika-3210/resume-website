@@ -1,0 +1,19 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    background-color: rgb(236, 242, 230);
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px;
+}
+textarea , select ,input{
+ margin: 10px;
+    font-size: medium;
+    border-radius: 8px;
+}
+.button{
+    background-color: rgb(64, 138, 186)80, 236);
+    color::-webkit-slider-runnable-track;
+}
